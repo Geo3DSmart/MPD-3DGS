@@ -11,7 +11,7 @@
 **Important**: This is a repository with submodules. Please clone it with the `--recursive` flag to ensure all submodules are downloaded correctly.
 
 ```bash
-git clone https://github.com/hjh530/MPD-3DGS.git --recursive
+git clone https://github.com/Geo3DSmart/MPD-3DGS.git --recursive
 ```
 
 **2. Set Up the Conda Environment**
