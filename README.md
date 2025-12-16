@@ -45,32 +45,32 @@
 git clone https://github.com/Geo3DSmart/MPD-3DGS.git --recursive
 ```
 
-**2. Set Up the Conda Environment**
+### **2. Set Up the Conda Environment**
 ```bash
 conda env create -f environment.yml
 conda activate MPD-3dgs
 ```
 
-**3.Depth regularization**
+### **3.Depth regularization**
 We use the original 3DGS depth regularization method, which can be specifically referenced in the official [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) documentation.
 
-### 🚀 Running
+## 🚀 Running
 
-**Datasets**
+### **Datasets**
 We follow the same dataset structure as the original Gaussian Splatting. You can use the provided data or place your own images in a folder under the `data/` directory and process them with COLMAP.
 
-**Training**
+### **Training**
 The training script is very similar to the original implementation.
 Example: Train on the 'garden' scene from the Mip-NeRF 360 dataset
 ```bash
 python train.py -s data/mipnerf360/garden -d <path to depth maps>
 ```
-**Evaluation**
+### **Evaluation**
 ```bash
 python render.py -m output/<your_run_name>
 ```
 
-### ✏️ Citation
+## ✏️ Citation
 If you find our work useful in your research, please consider citing our paper:
 
 
