@@ -6,7 +6,7 @@
 3D Gaussian Splatting (3DGS) enables high-quality novel view synthesis by combining 3D Gaussian primitives with differentiable rendering, achieving impressive real-time performance. However, its Adaptive Density Control (ADC) mechanism struggles in regions with high-frequency details, leading to oversmoothing and loss of fine textures. This issue arises from the sparse distribution of initial Gaussian points, which hinders effective refinement. To address this limitation, we propose Mask-guided Point Densification Gaussian Splatting (MPD-GS), which enhances point distribution by selectively densifying Gaussian points in masked regions. We identify critical projection regions based on pixel-level error metrics during training and edge pixels extracted using Canny detection. These masked pixels are then back-projected into 3D space using depth information, improving detail preservation and rendering quality. Experiments on public benchmarks demonstrate that MPD-GS effectively recovers fine textures while maintaining computational efficiency, making it a versatile enhancement for both 2D and 3D Gaussian Splatting-based methods.
 
 ![Teaser](
-assets/teaser.jpg
+asset/Fig1.jpg
 )
 
 ---
