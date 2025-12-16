@@ -94,12 +94,9 @@ is built upon the great work from [3DGS](https://github.com/graphdeco-inria/gaus
 Our project also benefits 
 from
  the following amazing open-source libraries:
-- [AbsGS](https:
-//github.com/TY424/AbsGS)
-- [
-2DGS](https://github.com/hbb1/2d-gaussian-splatting)
-- [Pixel-GS](https:
-//github.com/zhengzhang01/Pixel-GS)
-- [mini-splatting2](https:
-//github.com/fatPeter/mini-splatting2)
+- [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
+- [AbsGS](https://github.com/TY424/AbsGS)
+- [2DGS](https://github.com/hbb1/2d-gaussian-splatting)
+- [Pixel-GS](https://github.com/zhengzhang01/Pixel-GS)
+- [mini-splatting2](https://github.com/fatPeter/mini-splatting2)
 
