@@ -86,7 +86,20 @@ url = {https://www.sciencedirect.com/science/article/pii/S0925231225031108},
 author = {Junhui He and Wen Xiao and Guilong Wang and Jiteng Cheng and Jiaxing Zhang and Chao Yang},
 }
 ```
-### 🙏 Acknowledgements
 
-This project is built upon the great work from [3DGS](https://github.com/graphdeco-inria/gaussian-splatting). We sincerely thank the authors for their excellent work. Our project also benefits from the following amazing open-source libraries: [AbsGS](https://github.com/TY424/AbsGS), [2DGS](https://github.com/hbb1/2d-gaussian-splatting), [Pixel-GS](https://github.com/zhengzhang01/Pixel-GS), [mini-splatting2](https://github.com/fatPeter/mini-splatting2).
+## 🙏 Acknowledgements
+This project 
+is built upon the great work from [3DGS](https://github.com/graphdeco-inria/gaussian-splatting). We sincerely thank the authors for their excellent work. 
+
+Our project also benefits 
+from
+ the following amazing open-source libraries:
+- [AbsGS](https:
+//github.com/TY424/AbsGS)
+- [
+2DGS](https://github.com/hbb1/2d-gaussian-splatting)
+- [Pixel-GS](https:
+//github.com/zhengzhang01/Pixel-GS)
+- [mini-splatting2](https:
+//github.com/fatPeter/mini-splatting2)
 
